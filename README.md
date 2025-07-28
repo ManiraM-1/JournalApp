@@ -110,12 +110,3 @@ This project is licensed under the **MIT License**. See the [LICENSE](LICENSE) f
 
 ---
 
-### ✍️ README Header (Example)
-
-```markdown
-[![Build Status](https://img.shields.io/badge/build-ready-brightgreen.svg)]
-[![Status: Active](https://img.shields.io/badge/status-active-green.svg)]
-[![License: MIT](https://img.shields.io/badge/license-MIT-blue.svg)]
-
-# 📝 JournalApp
-```
